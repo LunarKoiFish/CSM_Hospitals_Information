@@ -1,6 +1,6 @@
 # CSM_Hospitals_Information
 
-🏥 Hospital General Information Analysis (CSM Project)
+🏥 Hospital General Information Analysis (CSM Project)  
 📌 Overview
 This project explores hospital-level data from the CSM Hospital General Information dataset. The goal was to clean, structure, and analyze hospital service availability and performance indicators using Python, SQL, and Tableau. The project culminates in an interactive dashboard designed to highlight key insights for data-driven decision-making.
 
